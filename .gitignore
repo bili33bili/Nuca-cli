@@ -1,0 +1,6 @@
+.nuca_config.json
+.nuxe_config.json
+*.json
+__pycache__/
+*.pyc
+.env
