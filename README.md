@@ -31,3 +31,4 @@ nuca --version
 # Tanya langsung satu baris
 nuca buatkan fungsi python sederhana
 ```
+# Nuca-cli
